@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form Pendaftaran</title>
+</head>
+<body>
+    <h1>Form Pendaftaran Mahasiswa</h1>
+
+    <!--MEMBUAT FORM-->
+    <form>
+        <!--LABEL DAN INPUT-->
+        <label for="nama">Nama Lengkap</label><br>
+        <input type="text" id="nama"><br><br>
+
+        <label>Email</label><br>
+        <input type="email"><br><br>
+        
+        <label>Password</label><br>
+        <input type="password"><br><br>
+
+        <label>No HP</label><br>
+        <input type="number"><br><br>
+
+        <label>Jurusan</label><br>
+
+        <!--SELECT OPTION-->
+        <select>
+            <option>informatika</option>
+            <option>Sistem Informasi</option>
+            <option>Teknik Mesin</option>
+            <option>Fisip</option>
+        </select><br><br>
+
+        <!--RADIO BUTTON-->
+        <label>Jenis Kelamin</label><br>
+        <input type="radio" name="jk"> Laki-laki
+        <input type="radio" name="jk"> Perempuan
+        <input type="radio" name="jk"> Transgender
+        <br><br>
+
+        <!--CHECKBOX-->
+        <label>Hobi</label><br>
+        <input type="checkbox" name="hobi"> Nanem Sawit
+        <input type="checkbox" name="hobi"> Mancing Emosi
+        <input type="checkbox" name="hobi"> Korupsi
+        <br><br>
+
+        <!--BUTTON-->
+        <button>Daftar</button><br>
+    </form><br>
+
+    <!--GARIS PEMISAH-->
+    <hr>
+
+    <h2>Data Pendaftar</h2>
+
+    <!--TABEL-->
+    <table border="1">
+        <!--BARIS JUDUL-->
+        <tr>
+            <th>No</th>
+            <th>Nama</th>
+            <th>Jurusan</th>
+            <th>Jenis Kelamin</th>
+        </tr>
+
+        <!--KOLOM DATA-->
+        <tr>
+            <td>1</td>
+            <td>Bahlul</td>
+            <td>Teknik ESDM</td>
+            <td>Transgender</td>
+        </tr>
+
+        <tr>
+            <td>2</td>
+            <td>Mulyono</td>
+            <td>Ilmu Kehutanan</td>
+            <td>Laki-laki</td>
+        </tr>
+
+        <tr>
+            <td>3</td>
+            <td>Wowo</td>
+            <td>Teknik Persawitan</td>
+            <td>Laki-laki</td>
+        </tr>
+    </table><br>
+</body>
+</html>
