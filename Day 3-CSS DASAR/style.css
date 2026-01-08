@@ -1,0 +1,70 @@
+/* RESET DASAR */
+*{
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* BACKGROUND */
+body {
+    background-color: #f6f6f6;
+    padding: 40px;
+}
+
+/* CONTAINER */
+.container {
+    max-width: 400px;
+    margin: auto;
+}
+
+/* JUDUL */
+.title {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+/* CARD FORM */
+.form-card {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.1);
+}
+
+/* GROUP FORM */
+.form-group {
+    margin-bottom: 15px;
+    padding: 5px;
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+/* INPUT & SELECT */
+input, select {
+    width: 100%;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+/* RADIO */
+.radio-group {
+    width: auto;
+    margin-left: 10px;
+}
+
+/* BUTTON */
+.btn-submit {
+    width: 100%;
+    padding: 10px;
+    background-color: #0066ff;
+    color: white;
+    border: none;
+    border-radius: 20px;
+}
+
+.btn-submit:hover {
+    background-color: darkblue;
+    cursor: pointer;
+}
