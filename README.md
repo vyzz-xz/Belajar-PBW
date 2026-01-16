@@ -71,11 +71,13 @@ _(Day selanjutnya akan ditambahkan)_
 ---
 
 ## 📂 Struktur Folder
+
+```text
 ├── day-1-html-dasar/
 │   ├── index.html
 │   └── bahlil.jpg
 ├── day-2-html-lanjutan/
-│   ├── index.html
+│   └── index.html
 ├── day-3-css-dasar/
 │   ├── index.html
 │   └── style.css
