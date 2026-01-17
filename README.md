@@ -59,6 +59,15 @@ Pembelajaran dilakukan secara **bertahap (Day by Day)** dengan fokus pada:
 - Hover effect menggunakan `transform` dan `transition`
 - Responsive layout menggunakan Media Query
 
+### Day 7 – Case Study
+- Studi kasus **Dashboard Admin**
+- Sidebar + Main Content
+- Nested Flexbox
+- Card layout
+- Responsive design (mobile view)
+- UI hover interaction
+- Struktur HTML yang benar dan scalable
+
 _(Day selanjutnya akan ditambahkan)_
 
 ---
@@ -88,6 +97,9 @@ _(Day selanjutnya akan ditambahkan)_
 │   ├── index.html
 │   └── style.css
 ├── day-6-css-positioning/
+│   ├── index.html
+│   └── style.css
+├── day-7-case-study/
 │   ├── index.html
 │   └── style.css
 └── README.md
