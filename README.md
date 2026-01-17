@@ -12,7 +12,7 @@ Pembelajaran dilakukan secara **bertahap (Day by Day)** dengan fokus pada:
 - Memahami dasar HTML, CSS, dan JavaScript
 - Mampu membuat website sendiri dari nol
 - Memahami konsep layout, responsive design, dan struktur web
-- Menjadi Web Developer yang mandiri dan profesional
+- Menjadi Programmer Profesional
 
 ---
 
@@ -115,5 +115,5 @@ Repository ini dibuat sebagai:
 ---
 
 ## ✍️ Author
-**Vizzett**  
-Belajar Web Development 🔥
+**Muhamad Hafiz**  
+Ingin Menjadi Programmer Handal tapi engan Ngoding 🔥
