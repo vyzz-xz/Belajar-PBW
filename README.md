@@ -77,7 +77,7 @@ Pembelajaran dilakukan secara **bertahap (Day by Day)** dengan fokus pada:
 - Unit `px` dan `fr`
 - Responsive layout dengan `@media`
 
-### Day 9 – JavaScript Dasar
+### Day 9 – JavaScript Basic
 - Pengenalan JavaScript
 - DOM Manipulation
 - Event Listener
