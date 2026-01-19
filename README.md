@@ -77,6 +77,13 @@ Pembelajaran dilakukan secara **bertahap (Day by Day)** dengan fokus pada:
 - Unit `px` dan `fr`
 - Responsive layout dengan `@media`
 
+### Day 9 – JavaScript Dasar
+- Pengenalan JavaScript
+- DOM Manipulation
+- Event Listener
+- Toggle Class
+- Active Menu
+
 _(Day selanjutnya akan ditambahkan)_
 
 ---
@@ -84,7 +91,7 @@ _(Day selanjutnya akan ditambahkan)_
 ## 🛠️ Teknologi yang Digunakan
 - HTML5
 - CSS3
-- (JavaScript akan dipelajari di tahap berikutnya)
+- JAVASCRIPT
 
 ---
 
@@ -114,6 +121,10 @@ _(Day selanjutnya akan ditambahkan)_
 ├── day-8-css-grid/
 │   ├── index.html
 │   └── style.css
+├── day-9-js-dasar/
+│   ├── index.html
+│   ├── style.css
+│   └── script.js
 └── README.md
 ```
 ---
