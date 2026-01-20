@@ -84,6 +84,13 @@ Pembelajaran dilakukan secara **bertahap (Day by Day)** dengan fokus pada:
 - Toggle Class
 - Active Menu
 
+### Day 10 – Responsive Sidebar
+- Membangun layout sidebar menggunakan **Flexbox**
+- Membuat sidebar **responsive** untuk desktop & mobile
+- Menggabungkan **CSS Media Query + JavaScript**
+- Mengimplementasikan tombol **toggle sidebar**
+- Mengatur state menu aktif menggunakan JavaScript
+
 _(Day selanjutnya akan ditambahkan)_
 
 ---
@@ -122,6 +129,10 @@ _(Day selanjutnya akan ditambahkan)_
 │   ├── index.html
 │   └── style.css
 ├── day-9-js-dasar/
+│   ├── index.html
+│   ├── style.css
+│   └── script.js
+├── day-10-responsive-sidebar/
 │   ├── index.html
 │   ├── style.css
 │   └── script.js
