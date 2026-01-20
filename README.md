@@ -86,7 +86,7 @@ Pembelajaran dilakukan secara **bertahap (Day by Day)** dengan fokus pada:
 
 ### Day 10 – Responsive Sidebar
 - Membangun layout sidebar menggunakan **Flexbox**
-- Membuat sidebar **responsive** untuk desktop & mobile
+- Membuat sidebar **Responsive** untuk desktop & mobile
 - Menggabungkan **CSS Media Query + JavaScript**
 - Mengimplementasikan tombol **toggle sidebar**
 - Mengatur state menu aktif menggunakan JavaScript
