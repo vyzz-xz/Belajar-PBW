@@ -3,7 +3,7 @@
 Repository ini berisi dokumentasi dan hasil latihan saya dalam mempelajari **Pemrograman Berbasis Web (PBW)** dari dasar hingga mahir.
 
 Pembelajaran dilakukan secara **bertahap (Day by Day)** dengan fokus pada:
-- Pemahaman konsep
+- Pemahaman konsep & Praktikum
 - Latihan manual
 
 ---
