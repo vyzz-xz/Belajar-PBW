@@ -91,6 +91,12 @@ Pembelajaran dilakukan secara **bertahap (Day by Day)** dengan fokus pada:
 - Mengimplementasikan tombol **toggle sidebar**
 - Mengatur state menu aktif menggunakan JavaScript
 
+### Day 11 – Mini Project
+- Sidebar bisa toggle
+- Menu aktif otomatis
+- Konten berubah sesuai menu (JS)
+- Responsive (mobile & desktop)
+
 _(Day selanjutnya akan ditambahkan)_
 
 ---
@@ -133,6 +139,10 @@ _(Day selanjutnya akan ditambahkan)_
 │   ├── style.css
 │   └── script.js
 ├── day-10-responsive-sidebar/
+│   ├── index.html
+│   ├── style.css
+│   └── script.js
+├── day-11-mini-project/
 │   ├── index.html
 │   ├── style.css
 │   └── script.js

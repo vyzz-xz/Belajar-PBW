@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Day 11 - Mini Project</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="layout">
+    <aside class="sidebar" id="sidebar">
+        <h2 class="logo">Dashboard</h2>
+        <ul>
+            <li class="menu-item" data-page="dashboard">Dashboard</li>
+            <li class="menu-item" data-page="profile">Profile</li>
+            <li class="menu-item" data-page="settings">Settings</li>
+            <li class="menu-item" data-page="logout">Logout</li>
+        </ul>
+    </aside>
+
+    <main class="content">
+        <button id="toggleBtn">☰</button>
+        <h1 id="pageTitle">Dashboard</h1>
+        <p id="pageContent">Ini adalah halaman dashboard.</p>
+
+    <div class="cards" id="dashboardCards">
+        <div class="card">
+            <h3>Total User</h3>
+            <p>1.240</p>
+        </div>
+
+        <div class="card">
+            <h3>Project</h3>
+            <p>32</p>
+        </div>
+
+        <div class="card">
+            <h3>Revenue</h3>
+            <p>Rp 12.5jt</p>
+        </div>
+
+        <div class="card">
+            <h3>Task Done</h3>
+            <p>87%</p>
+        </div>
+    </div>
+
+    </main>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
