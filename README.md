@@ -91,7 +91,7 @@ Pembelajaran dilakukan secara **bertahap (Day by Day)** dengan fokus pada:
 - Mengimplementasikan tombol **toggle sidebar**
 - Mengatur state menu aktif menggunakan JavaScript
 
-### Day 11 – Mini Project
+### Day 11 – Mini Project Dashboard
 - Sidebar bisa toggle
 - Menu aktif otomatis
 - Konten berubah sesuai menu (JS)
