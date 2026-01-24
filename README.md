@@ -98,7 +98,7 @@ Pembelajaran dilakukan secara **bertahap (Day by Day)** dengan fokus pada:
 - Responsive (mobile & desktop)
 
 ### Day 12 – Dynamic Dashboard
-- Data (array / object)
+- Data menggunakan (array / object)
 - Loop (forEach)
 - Render dari JS ke HTML
 - DOM manipulation
