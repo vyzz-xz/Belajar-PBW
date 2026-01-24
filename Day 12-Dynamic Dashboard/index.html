@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>Day 12 - Dynamic Dashboard</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="layout">
+    <aside class="sidebar">
+    <h2>Dashboard</h2>
+    <ul>
+        <li class="menu active" data-page="dashboard">Dashboard</li>
+        <li class="menu" data-page="projects">Projects</li>
+        <li class="menu" data-page="users">Users</li>
+        <li class="menu" data-page="settings">Settings</li>
+    </ul>
+    </aside>
+
+    <main class="content">
+    <h1 id="pageTitle">Dashboard</h1>
+    <div class="cards" id="cards"></div>
+    </main>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>

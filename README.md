@@ -97,6 +97,12 @@ Pembelajaran dilakukan secara **bertahap (Day by Day)** dengan fokus pada:
 - Konten berubah sesuai menu (JS)
 - Responsive (mobile & desktop)
 
+### Day 12 – Dynamic Dashboard
+- Data (array / object)
+- Loop (forEach)
+- Render dari JS ke HTML
+- DOM manipulation
+
 _(Day selanjutnya akan ditambahkan)_
 
 ---
@@ -143,6 +149,10 @@ _(Day selanjutnya akan ditambahkan)_
 │   ├── style.css
 │   └── script.js
 ├── day-11-mini-project/
+│   ├── index.html
+│   ├── style.css
+│   └── script.js
+├── day-12-dynamic-dashboard/
 │   ├── index.html
 │   ├── style.css
 │   └── script.js
