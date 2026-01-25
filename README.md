@@ -1,8 +1,7 @@
 # Belajar Pemrograman Berbasis Web 🌐
 
-Repository ini berisi dokumentasi dan hasil latihan saya dalam mempelajari **Pemrograman Berbasis Web (PBW)** dari dasar hingga mahir.
+Repository ini berisi dokumentasi dan hasil latihan saya dalam mempelajari **Pemrograman Berbasis Web (PBW)** dari dasar hingga mahir. Pembelajaran dilakukan secara **bertahap (Day by Day)** dengan fokus pada:
 
-Pembelajaran dilakukan secara **bertahap (Day by Day)** dengan fokus pada:
 - Pemahaman Teori & Praktikum
 - Latihan manual
 
