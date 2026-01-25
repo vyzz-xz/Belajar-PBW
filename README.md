@@ -103,6 +103,13 @@ Pembelajaran dilakukan secara **bertahap (Day by Day)** dengan fokus pada:
 - Render dari JavaScript ke HTML
 - DOM manipulation
 
+### Day 13 – Data & Interaction
+- Array & Object JavaScript
+- Render elemen HTML menggunakan JS
+- Manipulasi DOM (`createElement`, `appendChild`)
+- Filter data (All / Active / Done)
+- Pemisahan data dan tampilan
+
 _(Day selanjutnya akan ditambahkan)_
 
 ---
@@ -153,6 +160,10 @@ _(Day selanjutnya akan ditambahkan)_
 │   ├── style.css
 │   └── script.js
 ├── day-12-dynamic-dashboard/
+│   ├── index.html
+│   ├── style.css
+│   └── script.js
+├── day-13-data-interaction/
 │   ├── index.html
 │   ├── style.css
 │   └── script.js
