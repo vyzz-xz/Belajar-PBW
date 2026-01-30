@@ -109,6 +109,13 @@ Repository ini berisi dokumentasi dan hasil latihan saya dalam mempelajari **Pem
 - Filter data (All / Active / Done)
 - Pemisahan data dan tampilan
 
+### Day 14 – Dashboard Interactive
+- Pendalaman Array & Object JavaScript
+- Manajemen UI State (status data & filter aktif)
+- Render elemen HTML secara dinamis menggunakan JavaScript
+- Konsep Single Source of Truth
+- Penggunaan fungsi Render ulang UI,Filter data tanpa duplikasi elemen
+
 _(Day selanjutnya akan ditambahkan)_
 
 ---
@@ -166,6 +173,10 @@ _(Day selanjutnya akan ditambahkan)_
 │   ├── index.html
 │   ├── style.css
 │   └── script.js
+├── day-14-dashboard-interactive/
+│   ├── index.html
+│   ├── style.css
+│   └── script.js
 └── README.md
 ```
 ---
@@ -180,4 +191,4 @@ Repository ini dibuat sebagai:
 
 ## ✍️ Author
 **Muhamad Hafiz**  
-Ingin Menjadi programmer Handal tapi Engan Ngoding 🔥
+Ingin Jadi programmer Handal tapi Engan Ngoding🔥
