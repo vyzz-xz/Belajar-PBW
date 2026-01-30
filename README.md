@@ -114,7 +114,7 @@ Repository ini berisi dokumentasi dan hasil latihan saya dalam mempelajari **Pem
 - Manajemen UI State (status data & filter aktif)
 - Render elemen HTML secara dinamis menggunakan JavaScript
 - Konsep Single Source of Truth
-- Penggunaan fungsi Render ulang UI,Filter data tanpa duplikasi elemen
+- Penggunaan fungsi : Render ulang UI,Filter data tanpa duplikasi elemen
 
 _(Day selanjutnya akan ditambahkan)_
 
