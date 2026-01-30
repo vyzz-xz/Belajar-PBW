@@ -190,5 +190,5 @@ Repository ini dibuat sebagai:
 ---
 
 ## ✍️ Author
-**Muhamad Hafiz**  
+**Muhamad Hafiz | Tech Enthusiast**  
 Ingin Jadi programmer Handal tapi Engan Ngoding🔥
