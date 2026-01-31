@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8" />
+    <title>Day 15 - Mini Project Dashboard</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+    <div class="container">
+    <h1>📋 Task Dashboard</h1>
+
+    <!-- Input -->
+    <div class="input-group">
+        <input type="text" id="taskInput" placeholder="Tambah task..." />
+        <button id="addBtn">Tambah</button>
+    </div>
+
+    <!-- Filter -->
+    <div class="filter">
+        <button data-filter="all" class="active">All</button>
+        <button data-filter="active">Active</button>
+        <button data-filter="done">Done</button>
+    </div>
+
+    <!-- Task List -->
+    <div id="taskList"></div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
