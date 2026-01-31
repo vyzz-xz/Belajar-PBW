@@ -116,6 +116,15 @@ Repository ini berisi dokumentasi dan hasil latihan saya dalam mempelajari **Pem
 - Konsep Single Source of Truth
 - Penggunaan fungsi : Render ulang UI,Filter data tanpa duplikasi elemen
 
+### Day 15 – Mini Project Task Dashboard
+- Konsep state pada JavaScript (data sebagai sumber utama)
+- Mengelola data task menggunakan Array & Object
+- Menambah data baru melalui input user
+- Mengubah status data (active ↔ done)
+- Render ulang tampilan berdasarkan perubahan data
+- Filter tampilan berdasarkan kondisi data (All / Active / Done)
+- Memisahkan logika (JS) dan tampilan (HTML & CSS)
+
 _(Day selanjutnya akan ditambahkan)_
 
 ---
@@ -174,6 +183,10 @@ _(Day selanjutnya akan ditambahkan)_
 │   ├── style.css
 │   └── script.js
 ├── day-14-dashboard-interactive/
+│   ├── index.html
+│   ├── style.css
+│   └── script.js
+├── day-15-mini-project-dashboard/
 │   ├── index.html
 │   ├── style.css
 │   └── script.js
