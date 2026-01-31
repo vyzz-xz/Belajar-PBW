@@ -123,7 +123,7 @@ Repository ini berisi dokumentasi dan hasil latihan saya dalam mempelajari **Pem
 - Mengubah status data (active ↔ done)
 - Render ulang tampilan berdasarkan perubahan data
 - Filter tampilan berdasarkan kondisi data (All / Active / Done)
-- Memisahkan logika (JS) dan tampilan (HTML & CSS)
+- Memisahkan logika (JS) dan UI (HTML & CSS)
 
 _(Day selanjutnya akan ditambahkan)_
 
