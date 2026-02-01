@@ -200,7 +200,7 @@ _(Day selanjutnya akan ditambahkan)_
 │   ├── index.html
 │   ├── style.css
 │   └── script.js
-├── day-16-clean-code-js/
+├── day-16-clean-code-javascript/
 │   ├── index.html
 │   ├── style.css
 │   └── script.js
