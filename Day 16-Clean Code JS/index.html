@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>Day 16 - Clean JS Javascript</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+    <h1>📋 Task Dashboard</h1>
+
+    <div class="input-group">
+    <input type="text" id="taskInput" placeholder="Tulis tugas baru..." />
+    <button id="addBtn">Tambah</button>
+    </div>
+
+    <div class="filter">
+    <button data-filter="all" class="active">All</button>
+    <button data-filter="active">Active</button>
+    <button data-filter="done">Done</button>
+    </div>
+
+    <div id="taskList"></div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
