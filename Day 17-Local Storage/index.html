@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Day 17 - Task Dashboard</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+    <div class="app">
+    <h1>📋 Task Dashboard</h1>
+
+    <div class="task-input">
+        <input type="text" id="taskInput" placeholder="Tulis task baru..." />
+        <button id="addBtn">Tambah</button>
+    </div>
+
+    <div class="filters">
+        <button class="filter active" data-filter="all">All</button>
+        <button class="filter" data-filter="active">Active</button>
+        <button class="filter" data-filter="done">Done</button>
+    </div>
+
+    <div id="taskList" class="task-list"></div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
