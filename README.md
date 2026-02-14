@@ -135,6 +135,16 @@ Repository ini berisi dokumentasi dan hasil latihan saya dalam mempelajari **Pem
 - Struktur file JavaScript lebih rapi
 - Readability & maintainability code
 
+### Day 17 – LocalStorage & UI Polish
+- Penamaan variabel & function yang jelas
+- Pemisahan logic (data, UI, event)
+- Menghindari duplikasi kode (DRY)
+- Penggunaan function kecil & reusable
+- Single Source of Truth untuk data
+- Refactor conditional & loop
+- Struktur file JavaScript lebih rapi
+- Readability & maintainability code
+
 _(Day selanjutnya akan ditambahkan)_
 
 ---
@@ -201,6 +211,10 @@ _(Day selanjutnya akan ditambahkan)_
 │   ├── style.css
 │   └── script.js
 ├── day-16-clean-code-javascript/
+│   ├── index.html
+│   ├── style.css
+│   └── script.js
+├── day-17-local-storage/
 │   ├── index.html
 │   ├── style.css
 │   └── script.js
